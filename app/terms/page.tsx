@@ -20,7 +20,7 @@ export default function TermsOfService() {
           <section className="mb-8">
             <h2 className="text-2xl font-semibold mb-4">1. Acceptance of Terms</h2>
             <p className="text-gray-600">
-              By accessing and using lifekit.sg ("the Website"), you accept and agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use our services.
+              By accessing and using lifekit.sg (&quot;the Website&quot;), you accept and agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use our services.
             </p>
           </section>
 
@@ -47,7 +47,7 @@ export default function TermsOfService() {
           <section className="mb-8">
             <h2 className="text-2xl font-semibold mb-4">4. Disclaimer of Warranties</h2>
             <p className="text-gray-600">
-              The services are provided "as is" and "as available" without any warranties of any kind, either express or implied. While we strive for accuracy, we make no guarantees about the results or reliability of our tools.
+              The services are provided &quot;as is&quot; and &quot;as available&quot; without any warranties of any kind, either express or implied. While we strive for accuracy, we make no guarantees about the results or reliability of our tools.
             </p>
           </section>
 

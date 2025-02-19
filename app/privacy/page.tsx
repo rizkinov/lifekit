@@ -20,7 +20,7 @@ export default function PrivacyPolicy() {
           <section className="mb-8">
             <h2 className="text-2xl font-semibold mb-4">Overview</h2>
             <p className="text-gray-600">
-              This Privacy Policy describes how lifekit.sg ("we", "our", or "us") collects, uses, and protects your information when you use our website and services.
+              This Privacy Policy describes how lifekit.sg (&quot;we&quot;, &quot;our&quot;, or &quot;us&quot;) collects, uses, and protects your information when you use our website and services.
             </p>
           </section>
 
