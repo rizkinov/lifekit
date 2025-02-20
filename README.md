@@ -15,6 +15,7 @@ A simple landing page showcasing a compilation of essential life management tool
 - [Next.js](https://nextjs.org) - React framework
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com) - For styling
+- [shadcn/ui](https://ui.shadcn.com/) - Re-usable UI components
 - [Geist Font](https://vercel.com/font) - Custom font by Vercel
 
 ## Prerequisites
