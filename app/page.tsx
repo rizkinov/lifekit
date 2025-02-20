@@ -13,7 +13,7 @@ export default function Home() {
           <span className="bg-clip-text text-transparent bg-gradient-to-r from-gray-500 via-gray-400 to-gray-500">kit</span>
           <span className="bg-clip-text text-transparent bg-gradient-to-r from-gray-900 via-gray-800 to-gray-900">.sg</span>
         </h1>
-        <h2 className="text-xl md:text-2xl text-gray-600 text-center mb-8">
+        <h2 className="text-lg md:text-xl text-gray-600 text-center mb-8">
           Compilation of essential toolkits for Singapore residents, designed to simplify your life
         </h2>
       </section>
