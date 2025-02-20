@@ -44,7 +44,13 @@ export default function Home() {
                     Visualize rental prices across Singapore neighborhoods
                   </p>
                   <Button className="bg-gray-900 hover:bg-gray-800 shrink-0" asChild>
-                    <Link href="https://rent-map.lifekit.sg">Try Now</Link>
+                    <Link 
+                      href="https://rent-map.lifekit.sg" 
+                      target="_blank" 
+                      rel="noopener noreferrer"
+                    >
+                      Try Now
+                    </Link>
                   </Button>
                 </div>
               </div>
@@ -72,7 +78,13 @@ export default function Home() {
                     Check your PR application eligibility instantly
                   </p>
                   <Button className="bg-gray-900 hover:bg-gray-800 shrink-0" asChild>
-                    <Link href="https://pr-calculator.lifekit.sg">Try Now</Link>
+                    <Link 
+                      href="https://pr-calculator.lifekit.sg" 
+                      target="_blank" 
+                      rel="noopener noreferrer"
+                    >
+                      Try Now
+                    </Link>
                   </Button>
                 </div>
               </div>
@@ -100,7 +112,13 @@ export default function Home() {
                     Estimate your annual tax obligations easily
                   </p>
                   <Button className="bg-gray-900 hover:bg-gray-800 shrink-0" asChild>
-                    <Link href="https://tax-calculator.lifekit.sg">Try Now</Link>
+                    <Link 
+                      href="https://tax-calculator.lifekit.sg" 
+                      target="_blank" 
+                      rel="noopener noreferrer"
+                    >
+                      Try Now
+                    </Link>
                   </Button>
                 </div>
               </div>
