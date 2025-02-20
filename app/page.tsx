@@ -6,15 +6,18 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 export default function Home() {
   return (
     <main className="min-h-screen bg-white">
-      {/* Header Section */}
-      <section className="container mx-auto px-4 pt-24 pb-16 text-center">
-        <h1 className="text-4xl font-bold text-center mb-4">
-          life<span className="bg-gradient-to-r from-blue-600 to-teal-400 inline-block text-transparent bg-clip-text">kit</span>.sg
+     {/* Header Section */}
+     <section className="container mx-auto px-4 pt-24 pb-16 text-center">
+        <h1 className="text-5xl font-bold tracking-tight sm:text-7xl leading-tight pb-1">
+          <span className="bg-clip-text text-transparent bg-gradient-to-r from-gray-900 via-gray-800 to-gray-900">life</span>
+          <span className="bg-clip-text text-transparent bg-gradient-to-r from-gray-500 via-gray-400 to-gray-500">kit</span>
+          <span className="bg-clip-text text-transparent bg-gradient-to-r from-gray-900 via-gray-800 to-gray-900">.sg</span>
         </h1>
-        <h2 className="text-lg md:text-xl text-gray-600 text-center mt-4 mb-8">
-          Compilation of essential toolkits for Singapore residents, designed to simplify your life
-        </h2>
+        <p className="mt-6 text-xl text-gray-600 max-w-xl mx-auto leading-relaxed">
+        Compilation of essential toolkits for Singapore residents, designed to simplify your life
+        </p>
       </section>
+
 
       {/* Tools Grid */}
       <section className="container mx-auto px-4 py-12">
