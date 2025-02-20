@@ -8,10 +8,10 @@ export default function Home() {
     <main className="min-h-screen bg-white">
       {/* Header Section */}
       <section className="container mx-auto px-4 pt-24 pb-16 text-center">
-        <h1 className="text-4xl font-bold text-center mb-6">
-          LifeKit SG
+        <h1 className="text-4xl font-bold text-center mb-4">
+          life<span className="bg-gradient-to-r from-blue-600 to-teal-400 inline-block text-transparent bg-clip-text">kit</span>.sg
         </h1>
-        <h2 className="text-lg md:text-xl text-gray-600 text-center mb-8">
+        <h2 className="text-lg md:text-xl text-gray-600 text-center mt-4 mb-8">
           Compilation of essential toolkits for Singapore residents, designed to simplify your life
         </h2>
       </section>
